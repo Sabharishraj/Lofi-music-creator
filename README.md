@@ -1,8 +1,8 @@
 # Lofi-music-creator
-================================================================================
+--------------------------------------------------------------------------------
                          LOFI STUDIO v2 — README
                    Browser-Based Lo-Fi Audio Processor
-================================================================================
+--------------------------------------------------------------------------------
 
   beats · reverb · ambient overlays · smart auto-tune · trim · export
   Built entirely with HTML + Web Audio API. No server. No uploads. Just you.
