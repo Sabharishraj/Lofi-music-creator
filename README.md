@@ -297,6 +297,3 @@ based drum synthesis — all running locally on your machine.
   Claude (Anthropic). All audio processing happens locally in your browser.
   Your music stays on your device. Always.
 
-================================================================================
-                              END OF README
-================================================================================
