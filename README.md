@@ -1,5 +1,5 @@
 # Lofi-music-creator
-![Uploading image.png…]()
+
 
 --------------------------------------------------------------------------------
                            LOFI STUDIO v2 — README
